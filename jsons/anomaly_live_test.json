@@ -1,0 +1,395 @@
+{
+    "clips": [
+        {
+            "slug": "CleanTalentedOrcaMVGame",
+            "tracking_id": "705726460",
+            "url": "https://clips.twitch.tv/CleanTalentedOrcaMVGame?tt_medium=clips_api\u0026tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=CleanTalentedOrcaMVGame\u0026tt_medium=clips_api\u0026tt_content=embed",
+            "embed_html": "\u003ciframe src='https://clips.twitch.tv/embed?clip=CleanTalentedOrcaMVGame\u0026tt_medium=clips_api\u0026tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'\u003e\u003c/iframe\u003e",
+            "broadcaster": {
+                "id": "76508554",
+                "name": "anomaly",
+                "display_name": "Anomaly",
+                "channel_url": "https://www.twitch.tv/anomaly",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/anomaly-profile_image-0be1a6abbc7a9f45-150x150.png"
+            },
+            "curator": {
+                "id": "413265753",
+                "name": "vergxz",
+                "display_name": "vergxz",
+                "channel_url": "https://www.twitch.tv/vergxz",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/e20bd0c8-7583-4f5b-8550-e755f2ede2e3-profile_image-150x150.png"
+            },
+            "vod": {
+                "id": "615691626",
+                "url": "https://www.twitch.tv/videos/615691626?t=32h58m16s",
+                "offset": 118696,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "1513226593",
+            "game": "VALORANT",
+            "language": "en",
+            "title": "Keza fkin hell",
+            "views": 76,
+            "duration": 59.95,
+            "created_at": "2020-05-10T17:08:47Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C705726460-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C705726460-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C705726460-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "ColdbloodedEntertainingDunlinSuperVinlin",
+            "tracking_id": "705647740",
+            "url": "https://clips.twitch.tv/ColdbloodedEntertainingDunlinSuperVinlin?tt_medium=clips_api\u0026tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=ColdbloodedEntertainingDunlinSuperVinlin\u0026tt_medium=clips_api\u0026tt_content=embed",
+            "embed_html": "\u003ciframe src='https://clips.twitch.tv/embed?clip=ColdbloodedEntertainingDunlinSuperVinlin\u0026tt_medium=clips_api\u0026tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'\u003e\u003c/iframe\u003e",
+            "broadcaster": {
+                "id": "76508554",
+                "name": "anomaly",
+                "display_name": "Anomaly",
+                "channel_url": "https://www.twitch.tv/anomaly",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/anomaly-profile_image-0be1a6abbc7a9f45-150x150.png"
+            },
+            "curator": {
+                "id": "446267552",
+                "name": "cow_0001",
+                "display_name": "cow_0001",
+                "channel_url": "https://www.twitch.tv/cow_0001",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b36a326-7e81-4aed-8503-1f1a3416b1ed-profile_image-150x150.png"
+            },
+            "vod": {
+                "id": "615691626",
+                "url": "https://www.twitch.tv/videos/615691626?t=31h40m59s",
+                "offset": 114059,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "1513226593",
+            "game": "VALORANT",
+            "language": "en",
+            "title": "a",
+            "views": 23,
+            "duration": 22.17,
+            "created_at": "2020-05-10T15:50:49Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C705647740-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C705647740-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C705647740-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "DullAgitatedGullImGlitch",
+            "tracking_id": "705722437",
+            "url": "https://clips.twitch.tv/DullAgitatedGullImGlitch?tt_medium=clips_api\u0026tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=DullAgitatedGullImGlitch\u0026tt_medium=clips_api\u0026tt_content=embed",
+            "embed_html": "\u003ciframe src='https://clips.twitch.tv/embed?clip=DullAgitatedGullImGlitch\u0026tt_medium=clips_api\u0026tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'\u003e\u003c/iframe\u003e",
+            "broadcaster": {
+                "id": "76508554",
+                "name": "anomaly",
+                "display_name": "Anomaly",
+                "channel_url": "https://www.twitch.tv/anomaly",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/anomaly-profile_image-0be1a6abbc7a9f45-150x150.png"
+            },
+            "curator": {
+                "id": "503103363",
+                "name": "gopamon",
+                "display_name": "Gopamon",
+                "channel_url": "https://www.twitch.tv/gopamon",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fa1b8ba-8fa5-4e2a-bbeb-7ab242bb5443-profile_image-150x150.png"
+            },
+            "vod": {
+                "id": "615691626",
+                "url": "https://www.twitch.tv/videos/615691626?t= ",
+                "offset": 118567,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "1513226593",
+            "game": "VALORANT",
+            "language": "en",
+            "title": "OH NO",
+            "views": 11,
+            "duration": 5,
+            "created_at": "2020-05-10T17:05:24Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C705722437-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C705722437-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C705722437-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "AmusedDarkGazellePJSugar",
+            "tracking_id": "705654365",
+            "url": "https://clips.twitch.tv/AmusedDarkGazellePJSugar?tt_medium=clips_api\u0026tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=AmusedDarkGazellePJSugar\u0026tt_medium=clips_api\u0026tt_content=embed",
+            "embed_html": "\u003ciframe src='https://clips.twitch.tv/embed?clip=AmusedDarkGazellePJSugar\u0026tt_medium=clips_api\u0026tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'\u003e\u003c/iframe\u003e",
+            "broadcaster": {
+                "id": "76508554",
+                "name": "anomaly",
+                "display_name": "Anomaly",
+                "channel_url": "https://www.twitch.tv/anomaly",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/anomaly-profile_image-0be1a6abbc7a9f45-150x150.png"
+            },
+            "curator": {
+                "id": "107666287",
+                "name": "rainbow_rbd",
+                "display_name": "rainbow_rbd",
+                "channel_url": "https://www.twitch.tv/rainbow_rbd",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/81271db6-1607-44f8-b9cb-4736ff6215de-profile_image-150x150.png"
+            },
+            "vod": {
+                "id": "615691626",
+                "url": "https://www.twitch.tv/videos/615691626?t=31h47m14s",
+                "offset": 114434,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "1513226593",
+            "game": "VALORANT",
+            "language": "en",
+            "title": "Ya sharmoota",
+            "views": 10,
+            "duration": 13.87,
+            "created_at": "2020-05-10T15:57:44Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C705654365-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C705654365-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C705654365-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "FairThoughtfulTortoiseResidentSleeper",
+            "tracking_id": "706197184",
+            "url": "https://clips.twitch.tv/FairThoughtfulTortoiseResidentSleeper?tt_medium=clips_api\u0026tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=FairThoughtfulTortoiseResidentSleeper\u0026tt_medium=clips_api\u0026tt_content=embed",
+            "embed_html": "\u003ciframe src='https://clips.twitch.tv/embed?clip=FairThoughtfulTortoiseResidentSleeper\u0026tt_medium=clips_api\u0026tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'\u003e\u003c/iframe\u003e",
+            "broadcaster": {
+                "id": "76508554",
+                "name": "anomaly",
+                "display_name": "Anomaly",
+                "channel_url": "https://www.twitch.tv/anomaly",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/anomaly-profile_image-0be1a6abbc7a9f45-150x150.png"
+            },
+            "curator": {
+                "id": "109663344",
+                "name": "laserlord_",
+                "display_name": "Laserlord_",
+                "channel_url": "https://www.twitch.tv/laserlord_",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/laserlord_-profile_image-53b7832b75d04802-150x150.jpeg"
+            },
+            "vod": {
+                "id": "615691626",
+                "url": "https://www.twitch.tv/videos/615691626?t=36h9m15s",
+                "offset": 130155,
+                "preview_image_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/6a7965a36a4aabc35da4_anomaly_1513226593_94638114//thumb/thumb0-320x180.jpg"
+            },
+            "broadcast_id": "1513226593",
+            "game": "VALORANT",
+            "language": "en",
+            "title": "Laserlord 1vs4 against 30k Viewer  |  Laserlord went crazy",
+            "views": 9,
+            "duration": 59.97,
+            "created_at": "2020-05-10T22:55:59Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C706197184-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C706197184-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C706197184-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "GrossSecretiveMetalPanicBasket",
+            "tracking_id": "705951326",
+            "url": "https://clips.twitch.tv/GrossSecretiveMetalPanicBasket?tt_medium=clips_api\u0026tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=GrossSecretiveMetalPanicBasket\u0026tt_medium=clips_api\u0026tt_content=embed",
+            "embed_html": "\u003ciframe src='https://clips.twitch.tv/embed?clip=GrossSecretiveMetalPanicBasket\u0026tt_medium=clips_api\u0026tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'\u003e\u003c/iframe\u003e",
+            "broadcaster": {
+                "id": "76508554",
+                "name": "anomaly",
+                "display_name": "Anomaly",
+                "channel_url": "https://www.twitch.tv/anomaly",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/anomaly-profile_image-0be1a6abbc7a9f45-150x150.png"
+            },
+            "curator": {
+                "id": "527807684",
+                "name": "ismailvalorant",
+                "display_name": "ismailvalorant",
+                "channel_url": "https://www.twitch.tv/ismailvalorant",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-150x150.png"
+            },
+            "vod": {
+                "id": "615691626",
+                "url": "https://www.twitch.tv/videos/615691626?t=35h52m7s",
+                "offset": 129127,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "1513226593",
+            "game": "VALORANT",
+            "language": "en",
+            "title": "dfk",
+            "views": 9,
+            "duration": 25.25,
+            "created_at": "2020-05-10T20:01:37Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/1513226593-offset-129150-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/1513226593-offset-129150-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/1513226593-offset-129150-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "SpineyAliveBatteryArgieB8",
+            "tracking_id": "706907549",
+            "url": "https://clips.twitch.tv/SpineyAliveBatteryArgieB8?tt_medium=clips_api\u0026tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=SpineyAliveBatteryArgieB8\u0026tt_medium=clips_api\u0026tt_content=embed",
+            "embed_html": "\u003ciframe src='https://clips.twitch.tv/embed?clip=SpineyAliveBatteryArgieB8\u0026tt_medium=clips_api\u0026tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'\u003e\u003c/iframe\u003e",
+            "broadcaster": {
+                "id": "76508554",
+                "name": "anomaly",
+                "display_name": "Anomaly",
+                "channel_url": "https://www.twitch.tv/anomaly",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/anomaly-profile_image-0be1a6abbc7a9f45-150x150.png"
+            },
+            "curator": {
+                "id": "143496643",
+                "name": "diserect",
+                "display_name": "DiSeReCt",
+                "channel_url": "https://www.twitch.tv/diserect",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/e622db7e-3821-47a7-b1f0-be26f022d112-profile_image-150x150.png"
+            },
+            "vod": {
+                "id": "617640186",
+                "url": "https://www.twitch.tv/videos/617640186?t=4h21m52s",
+                "offset": 15712,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x180.png"
+            },
+            "broadcast_id": "1545724929",
+            "game": "VALORANT",
+            "language": "en",
+            "title": "rip",
+            "views": 9,
+            "duration": 8.28,
+            "created_at": "2020-05-11T15:16:32Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C706907549-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C706907549-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C706907549-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "MuddyGloriousPizzaDatSheffy",
+            "tracking_id": "706830328",
+            "url": "https://clips.twitch.tv/MuddyGloriousPizzaDatSheffy?tt_medium=clips_api\u0026tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=MuddyGloriousPizzaDatSheffy\u0026tt_medium=clips_api\u0026tt_content=embed",
+            "embed_html": "\u003ciframe src='https://clips.twitch.tv/embed?clip=MuddyGloriousPizzaDatSheffy\u0026tt_medium=clips_api\u0026tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'\u003e\u003c/iframe\u003e",
+            "broadcaster": {
+                "id": "76508554",
+                "name": "anomaly",
+                "display_name": "Anomaly",
+                "channel_url": "https://www.twitch.tv/anomaly",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/anomaly-profile_image-0be1a6abbc7a9f45-150x150.png"
+            },
+            "curator": {
+                "id": "81059338",
+                "name": "juan_romero",
+                "display_name": "Juan_Romero",
+                "channel_url": "https://www.twitch.tv/juan_romero",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/cb55322b-8b5b-4552-a2e5-6d383503266e-profile_image-150x150.png"
+            },
+            "vod": {
+                "id": "617640186",
+                "url": "https://www.twitch.tv/videos/617640186?t=4h16m52s",
+                "offset": 15412,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x180.png"
+            },
+            "broadcast_id": "1545724929",
+            "game": "VALORANT",
+            "language": "en",
+            "title": "jelle moment",
+            "views": 8,
+            "duration": 19.07,
+            "created_at": "2020-05-11T13:55:14Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C706830328-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C706830328-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C706830328-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "IgnorantThoughtfulJamBuddhaBar",
+            "tracking_id": "706851825",
+            "url": "https://clips.twitch.tv/IgnorantThoughtfulJamBuddhaBar?tt_medium=clips_api\u0026tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=IgnorantThoughtfulJamBuddhaBar\u0026tt_medium=clips_api\u0026tt_content=embed",
+            "embed_html": "\u003ciframe src='https://clips.twitch.tv/embed?clip=IgnorantThoughtfulJamBuddhaBar\u0026tt_medium=clips_api\u0026tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'\u003e\u003c/iframe\u003e",
+            "broadcaster": {
+                "id": "76508554",
+                "name": "anomaly",
+                "display_name": "Anomaly",
+                "channel_url": "https://www.twitch.tv/anomaly",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/anomaly-profile_image-0be1a6abbc7a9f45-150x150.png"
+            },
+            "curator": {
+                "id": "88489840",
+                "name": "reg3nt",
+                "display_name": "Reg3nt",
+                "channel_url": "https://www.twitch.tv/reg3nt",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/18770aa7-b822-4c3d-aa14-9a56c94ec2cf-profile_image-150x150.png"
+            },
+            "vod": {
+                "id": "617640186",
+                "url": "https://www.twitch.tv/videos/617640186?t=4h52m31s",
+                "offset": 17551,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "1545724929",
+            "game": "VALORANT",
+            "language": "en",
+            "title": "huh",
+            "views": 8,
+            "duration": 18.78,
+            "created_at": "2020-05-11T14:19:32Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C706851825-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C706851825-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C706851825-preview-86x45.jpg"
+            }
+        },
+        {
+            "slug": "VibrantTawdryWheelRitzMitz",
+            "tracking_id": "706749060",
+            "url": "https://clips.twitch.tv/VibrantTawdryWheelRitzMitz?tt_medium=clips_api\u0026tt_content=url",
+            "embed_url": "https://clips.twitch.tv/embed?clip=VibrantTawdryWheelRitzMitz\u0026tt_medium=clips_api\u0026tt_content=embed",
+            "embed_html": "\u003ciframe src='https://clips.twitch.tv/embed?clip=VibrantTawdryWheelRitzMitz\u0026tt_medium=clips_api\u0026tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'\u003e\u003c/iframe\u003e",
+            "broadcaster": {
+                "id": "76508554",
+                "name": "anomaly",
+                "display_name": "Anomaly",
+                "channel_url": "https://www.twitch.tv/anomaly",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/anomaly-profile_image-0be1a6abbc7a9f45-150x150.png"
+            },
+            "curator": {
+                "id": "63383404",
+                "name": "peachshampoo",
+                "display_name": "PeachShampoo",
+                "channel_url": "https://www.twitch.tv/peachshampoo",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/peachshampoo-profile_image-e44d3dd0a853173e-150x150.jpeg"
+            },
+            "vod": {
+                "id": "617640186",
+                "url": "https://www.twitch.tv/videos/617640186?t=2h25m37s",
+                "offset": 8737,
+                "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png"
+            },
+            "broadcast_id": "1545724929",
+            "game": "VALORANT",
+            "language": "en",
+            "title": "my salad jost exploded",
+            "views": 8,
+            "duration": 59.97,
+            "created_at": "2020-05-11T11:53:20Z",
+            "thumbnails": {
+                "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C706749060-preview-480x272.jpg",
+                "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C706749060-preview-260x147.jpg",
+                "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C706749060-preview-86x45.jpg"
+            }
+        }
+    ],
+    "_cursor": "MTA="
+}

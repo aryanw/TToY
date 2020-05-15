@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "1527865873",
+            "user_id": "40784764",
+            "user_name": "Shlorox",
+            "game_id": "32982",
+            "type": "live",
+            "title": "[GER|Shlorox] Butters. 🐢 !cfz | (╯°□°）╯#KaffeeStream | PC@60FPS [kw-com.de]",
+            "viewer_count": 7767,
+            "started_at": "2020-05-10T10:21:23Z",
+            "language": "de",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shlorox-{width}x{height}.jpg",
+            "tag_ids": [
+                "9166ad14-41f1-4b04-a3b8-c8eb838c6be6"
+            ]
+        },
+        {
+            "id": "1533515681",
+            "user_id": "69759951",
+            "user_name": "Vader",
+            "game_id": "32982",
+            "type": "live",
+            "title": "Eugene - !Threads - NoPixel",
+            "viewer_count": 7739,
+            "started_at": "2020-05-10T16:00:23Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vader-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        }
+    ],
+    "pagination": {
+        "cursor": "eyJiIjp7IkN1cnNvciI6ImV5SnpJam8zTnpZM0xqYzBOakV4TmpNNU5qUTBOaXdpWkNJNlptRnNjMlVzSW5RaU9uUnlkV1Y5In0sImEiOnsiQ3Vyc29yIjoiZXlKeklqbzNOek01TGpnMk9EQXlNall6TlRZeE1Td2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifX0"
+    }
+}

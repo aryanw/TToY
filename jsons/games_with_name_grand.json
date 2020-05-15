@@ -1,0 +1,954 @@
+{
+    "games": [
+        {
+            "name": "Grand Theft Auto V",
+            "_id": 32982,
+            "giantbomb_id": 36765,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20V-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20V-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20V-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20V-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20V-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20V-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20V-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20V-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Theft Auto V",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Theft Auto: San Andreas",
+            "_id": 6521,
+            "giantbomb_id": 7120,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20San%20Andreas-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20San%20Andreas-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20San%20Andreas-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20San%20Andreas-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20San%20Andreas-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20San%20Andreas-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20San%20Andreas-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20San%20Andreas-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Theft Auto: San Andreas",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Theft Auto: Vice City",
+            "_id": 15631,
+            "giantbomb_id": 17036,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20Vice%20City-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20Vice%20City-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20Vice%20City-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20Vice%20City-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20Vice%20City-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20Vice%20City-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20Vice%20City-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20Vice%20City-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Theft Auto: Vice City",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Theft Auto III",
+            "_id": 3412,
+            "giantbomb_id": 3724,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20III-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20III-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20III-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20III-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20III-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20III-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20III-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20III-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Theft Auto III",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Theft Auto IV",
+            "_id": 18707,
+            "giantbomb_id": 20457,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20IV-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20IV-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20IV-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20IV-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20IV-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20IV-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20IV-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20IV-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Theft Auto IV",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Theft Auto",
+            "_id": 12453,
+            "giantbomb_id": 13567,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Theft Auto",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grandia",
+            "_id": 16198,
+            "giantbomb_id": 17659,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grandia-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grandia-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grandia-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grandia-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grandia-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grandia-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grandia-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grandia-{width}x{height}.jpg"
+            },
+            "localized_name": "Grandia",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Chase",
+            "_id": 11544,
+            "giantbomb_id": 12569,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Chase-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Chase-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Chase-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Chase-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Chase-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Chase-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Chase-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Chase-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Chase",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Theft Auto: Vice City Stories",
+            "_id": 9423,
+            "giantbomb_id": 10264,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20Vice%20City%20Stories-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20Vice%20City%20Stories-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20Vice%20City%20Stories-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20Vice%20City%20Stories-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20Vice%20City%20Stories-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20Vice%20City%20Stories-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20Vice%20City%20Stories-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20Vice%20City%20Stories-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Theft Auto: Vice City Stories",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Fantasia",
+            "_id": 26384,
+            "giantbomb_id": 29257,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Fantasia-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Fantasia-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Fantasia-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Fantasia-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Fantasia-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Fantasia-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Fantasia-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Fantasia-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Fantasia",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Theft Auto: Liberty City Stories",
+            "_id": 6167,
+            "giantbomb_id": 6731,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20Liberty%20City%20Stories-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20Liberty%20City%20Stories-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20Liberty%20City%20Stories-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20Liberty%20City%20Stories-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20Liberty%20City%20Stories-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20Liberty%20City%20Stories-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20Liberty%20City%20Stories-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20Liberty%20City%20Stories-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Theft Auto: Liberty City Stories",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Theft Auto: Episodes from Liberty City",
+            "_id": 24057,
+            "giantbomb_id": 26616,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20Episodes%20from%20Liberty%20City-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20Episodes%20from%20Liberty%20City-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20Episodes%20from%20Liberty%20City-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20Episodes%20from%20Liberty%20City-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20Episodes%20from%20Liberty%20City-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20Episodes%20from%20Liberty%20City-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20Episodes%20from%20Liberty%20City-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20Episodes%20from%20Liberty%20City-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Theft Auto: Episodes from Liberty City",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Prix Master",
+            "_id": 9463,
+            "giantbomb_id": 10312,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Master-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Master-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Master-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Master-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Master-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Master-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Master-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Master-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Prix Master",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Mountain Adventure",
+            "_id": 510240,
+            "giantbomb_id": 70942,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Mountain%20Adventure-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Mountain%20Adventure-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Mountain%20Adventure-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Mountain%20Adventure-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Mountain%20Adventure-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Mountain%20Adventure-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Mountain%20Adventure-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Mountain%20Adventure-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Mountain Adventure",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Ouvert",
+            "_id": 10821,
+            "giantbomb_id": 11788,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Ouvert-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Ouvert-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Ouvert-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Ouvert-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Ouvert-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Ouvert-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Ouvert-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Ouvert-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Ouvert",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grandia: Digital Museum",
+            "_id": 21251,
+            "giantbomb_id": 23434,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Grandia:%20Digital%20Museum-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Grandia:%20Digital%20Museum-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Grandia:%20Digital%20Museum-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Grandia:%20Digital%20Museum-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Grandia:%20Digital%20Museum-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Grandia:%20Digital%20Museum-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Grandia:%20Digital%20Museum-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Grandia:%20Digital%20Museum-{width}x{height}.jpg"
+            },
+            "localized_name": "Grandia: Digital Museum",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Theft Auto 2",
+            "_id": 9726,
+            "giantbomb_id": 10593,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%202-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%202-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%202-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%202-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%202-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%202-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%202-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%202-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Theft Auto 2",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Prix",
+            "_id": 5858,
+            "giantbomb_id": 35183,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Prix",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grandpa's Workshop",
+            "_id": 499203,
+            "giantbomb_id": 61636,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grandpa%27s%20Workshop-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grandpa%27s%20Workshop-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grandpa%27s%20Workshop-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grandpa%27s%20Workshop-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grandpa%27s%20Workshop-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grandpa%27s%20Workshop-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grandpa%27s%20Workshop-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grandpa%27s%20Workshop-{width}x{height}.jpg"
+            },
+            "localized_name": "Grandpa's Workshop",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grandia HD Collection",
+            "_id": 513773,
+            "giantbomb_id": 74594,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grandia%20HD%20Collection-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grandia%20HD%20Collection-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grandia%20HD%20Collection-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grandia%20HD%20Collection-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grandia%20HD%20Collection-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grandia%20HD%20Collection-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grandia%20HD%20Collection-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grandia%20HD%20Collection-{width}x{height}.jpg"
+            },
+            "localized_name": "Grandia HD Collection",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Champion",
+            "_id": 25852,
+            "giantbomb_id": 28653,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Champion-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Champion-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Champion-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Champion-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Champion-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Champion-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Champion-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Champion-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Champion",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Prix Rock'n Racing",
+            "_id": 493262,
+            "giantbomb_id": 54350,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Rock%27n%20Racing-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Rock%27n%20Racing-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Rock%27n%20Racing-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Rock%27n%20Racing-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Rock%27n%20Racing-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Rock%27n%20Racing-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Rock%27n%20Racing-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Rock%27n%20Racing-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Prix Rock'n Racing",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Knights History",
+            "_id": 31092,
+            "giantbomb_id": 34617,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Knights%20History-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Knights%20History-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Knights%20History-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Knights%20History-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Knights%20History-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Knights%20History-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Knights%20History-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Knights%20History-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Knights History",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Prix Simulator 2",
+            "_id": 12112,
+            "giantbomb_id": 13201,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Simulator%202-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Simulator%202-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Simulator%202-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Simulator%202-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Simulator%202-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Simulator%202-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Simulator%202-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Simulator%202-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Prix Simulator 2",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Lizard",
+            "_id": 31753,
+            "giantbomb_id": 35391,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Lizard-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Lizard-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Lizard-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Lizard-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Lizard-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Lizard-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Lizard-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Lizard-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Lizard",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grandma Bethlinda's Variety Box",
+            "_id": 506870,
+            "giantbomb_id": 51131,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grandma%20Bethlinda%27s%20Variety%20Box-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grandma%20Bethlinda%27s%20Variety%20Box-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grandma%20Bethlinda%27s%20Variety%20Box-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grandma%20Bethlinda%27s%20Variety%20Box-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grandma%20Bethlinda%27s%20Variety%20Box-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grandma%20Bethlinda%27s%20Variety%20Box-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grandma%20Bethlinda%27s%20Variety%20Box-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grandma%20Bethlinda%27s%20Variety%20Box-{width}x{height}.jpg"
+            },
+            "localized_name": "Grandma Bethlinda's Variety Box",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Sphere",
+            "_id": 507358,
+            "giantbomb_id": 52128,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Sphere-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Sphere-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Sphere-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Sphere-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Sphere-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Sphere-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Sphere-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Sphere-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Sphere",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Trucker Aniki: Shigoto to Kenka to Koimoyou",
+            "_id": 516792,
+            "giantbomb_id": 77690,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Trucker%20Aniki:%20Shigoto%20to%20Kenka%20to%20Koimoyou-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Trucker%20Aniki:%20Shigoto%20to%20Kenka%20to%20Koimoyou-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Trucker%20Aniki:%20Shigoto%20to%20Kenka%20to%20Koimoyou-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Trucker%20Aniki:%20Shigoto%20to%20Kenka%20to%20Koimoyou-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Trucker%20Aniki:%20Shigoto%20to%20Kenka%20to%20Koimoyou-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Trucker%20Aniki:%20Shigoto%20to%20Kenka%20to%20Koimoyou-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Trucker%20Aniki:%20Shigoto%20to%20Kenka%20to%20Koimoyou-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Trucker%20Aniki:%20Shigoto%20to%20Kenka%20to%20Koimoyou-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Trucker Aniki: Shigoto to Kenka to Koimoyou",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Slam Bridge II",
+            "_id": 7647,
+            "giantbomb_id": 8355,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Slam%20Bridge%20II-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Slam%20Bridge%20II-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Slam%20Bridge%20II-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Slam%20Bridge%20II-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Slam%20Bridge%20II-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Slam%20Bridge%20II-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Slam%20Bridge%20II-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Slam%20Bridge%20II-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Slam Bridge II",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Prix Story 2",
+            "_id": 500548,
+            "giantbomb_id": 63011,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Story%202-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Story%202-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Story%202-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Story%202-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Story%202-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Story%202-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Story%202-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Story%202-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Prix Story 2",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Prix 500 cc",
+            "_id": 10884,
+            "giantbomb_id": 11856,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20500%20cc-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20500%20cc-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20500%20cc-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20500%20cc-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20500%20cc-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20500%20cc-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20500%20cc-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20500%20cc-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Prix 500 cc",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grandia: Parallel Trippers",
+            "_id": 7415,
+            "giantbomb_id": 8096,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Grandia:%20Parallel%20Trippers-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Grandia:%20Parallel%20Trippers-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Grandia:%20Parallel%20Trippers-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Grandia:%20Parallel%20Trippers-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Grandia:%20Parallel%20Trippers-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Grandia:%20Parallel%20Trippers-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Grandia:%20Parallel%20Trippers-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Grandia:%20Parallel%20Trippers-{width}x{height}.jpg"
+            },
+            "localized_name": "Grandia: Parallel Trippers",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Theft Auto Advance",
+            "_id": 3235,
+            "giantbomb_id": 3527,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20Advance-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20Advance-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20Advance-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20Advance-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20Advance-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20Advance-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20Advance-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Theft%20Auto%20Advance-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Theft Auto Advance",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Slam",
+            "_id": 14924,
+            "giantbomb_id": 28654,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Slam-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Slam-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Slam-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Slam-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Slam-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Slam-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Slam-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Slam-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Slam",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Brix Shooter",
+            "_id": 513804,
+            "giantbomb_id": 74650,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Brix%20Shooter-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Brix%20Shooter-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Brix%20Shooter-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Brix%20Shooter-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Brix%20Shooter-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Brix%20Shooter-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Brix%20Shooter-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Brix%20Shooter-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Brix Shooter",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Summoners",
+            "_id": 503971,
+            "giantbomb_id": 66415,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Summoners-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Summoners-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Summoners-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Summoners-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Summoners-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Summoners-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Summoners-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Summoners-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Summoners",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Ages: Rome",
+            "_id": 22606,
+            "giantbomb_id": 24980,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Ages:%20Rome-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Ages:%20Rome-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Ages:%20Rome-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Ages:%20Rome-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Ages:%20Rome-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Ages:%20Rome-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Ages:%20Rome-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Ages:%20Rome-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Ages: Rome",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Tour Racing: GT-R 400",
+            "_id": 488463,
+            "giantbomb_id": 48052,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Tour%20Racing:%20GT-R%20400-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Tour%20Racing:%20GT-R%20400-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Tour%20Racing:%20GT-R%20400-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Tour%20Racing:%20GT-R%20400-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Tour%20Racing:%20GT-R%20400-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Tour%20Racing:%20GT-R%20400-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Tour%20Racing:%20GT-R%20400-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Tour%20Racing:%20GT-R%20400-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Tour Racing: GT-R 400",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grandia II",
+            "_id": 9292,
+            "giantbomb_id": 10129,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grandia%20II-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grandia%20II-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grandia%20II-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grandia%20II-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grandia%20II-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grandia%20II-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grandia%20II-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grandia%20II-{width}x{height}.jpg"
+            },
+            "localized_name": "Grandia II",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Truckismo",
+            "_id": 476464,
+            "giantbomb_id": 47748,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Truckismo-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Truckismo-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Truckismo-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Truckismo-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Truckismo-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Truckismo-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Truckismo-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Truckismo-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Truckismo",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grandia Xtreme",
+            "_id": 12994,
+            "giantbomb_id": 14159,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grandia%20Xtreme-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grandia%20Xtreme-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grandia%20Xtreme-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grandia%20Xtreme-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grandia%20Xtreme-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grandia%20Xtreme-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grandia%20Xtreme-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grandia%20Xtreme-{width}x{height}.jpg"
+            },
+            "localized_name": "Grandia Xtreme",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Prix Manager",
+            "_id": 18093,
+            "giantbomb_id": 19778,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Manager-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Manager-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Manager-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Manager-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Manager-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Manager-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Manager-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Manager-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Prix Manager",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Prix 3",
+            "_id": 12785,
+            "giantbomb_id": 13935,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%203-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%203-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%203-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%203-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%203-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%203-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%203-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%203-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Prix 3",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Fleet",
+            "_id": 998,
+            "giantbomb_id": 1092,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Fleet-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Fleet-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Fleet-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Fleet-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Fleet-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Fleet-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Fleet-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Fleet-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Fleet",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Slam Tennis",
+            "_id": 22106,
+            "giantbomb_id": 24396,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Slam%20Tennis-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Slam%20Tennis-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Slam%20Tennis-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Slam%20Tennis-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Slam%20Tennis-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Slam%20Tennis-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Slam%20Tennis-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Slam%20Tennis-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Slam Tennis",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Prix Unlimited",
+            "_id": 13111,
+            "giantbomb_id": 14284,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Unlimited-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Unlimited-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Unlimited-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Prix%20Unlimited-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Unlimited-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Unlimited-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Unlimited-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Prix%20Unlimited-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Prix Unlimited",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grandmaster Chess (CD-ROM Edition)",
+            "_id": 10905,
+            "giantbomb_id": 11878,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grandmaster%20Chess%20%28CD-ROM%20Edition%29-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grandmaster%20Chess%20%28CD-ROM%20Edition%29-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grandmaster%20Chess%20%28CD-ROM%20Edition%29-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grandmaster%20Chess%20%28CD-ROM%20Edition%29-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grandmaster%20Chess%20%28CD-ROM%20Edition%29-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grandmaster%20Chess%20%28CD-ROM%20Edition%29-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grandmaster%20Chess%20%28CD-ROM%20Edition%29-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grandmaster%20Chess%20%28CD-ROM%20Edition%29-{width}x{height}.jpg"
+            },
+            "localized_name": "Grandmaster Chess (CD-ROM Edition)",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Theft Auto: London 1969",
+            "_id": 7600,
+            "giantbomb_id": 8294,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20London%201969-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20London%201969-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20London%201969-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/./Grand%20Theft%20Auto:%20London%201969-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20London%201969-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20London%201969-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20London%201969-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/./Grand%20Theft%20Auto:%20London%201969-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Theft Auto: London 1969",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grand Slam Turkey Hunt",
+            "_id": 33119,
+            "giantbomb_id": 36918,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Slam%20Turkey%20Hunt-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Slam%20Turkey%20Hunt-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Slam%20Turkey%20Hunt-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Slam%20Turkey%20Hunt-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Slam%20Turkey%20Hunt-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Slam%20Turkey%20Hunt-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Slam%20Turkey%20Hunt-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grand%20Slam%20Turkey%20Hunt-{width}x{height}.jpg"
+            },
+            "localized_name": "Grand Slam Turkey Hunt",
+            "locale": "en-us"
+        },
+        {
+            "name": "Grandpa Joe Plays the Open",
+            "_id": 3887,
+            "giantbomb_id": 4251,
+            "box": {
+                "large": "https://static-cdn.jtvnw.net/ttv-boxart/Grandpa%20Joe%20Plays%20the%20Open-272x380.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-boxart/Grandpa%20Joe%20Plays%20the%20Open-136x190.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-boxart/Grandpa%20Joe%20Plays%20the%20Open-52x72.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-boxart/Grandpa%20Joe%20Plays%20the%20Open-{width}x{height}.jpg"
+            },
+            "logo": {
+                "large": "https://static-cdn.jtvnw.net/ttv-logoart/Grandpa%20Joe%20Plays%20the%20Open-240x144.jpg",
+                "medium": "https://static-cdn.jtvnw.net/ttv-logoart/Grandpa%20Joe%20Plays%20the%20Open-120x72.jpg",
+                "small": "https://static-cdn.jtvnw.net/ttv-logoart/Grandpa%20Joe%20Plays%20the%20Open-60x36.jpg",
+                "template": "https://static-cdn.jtvnw.net/ttv-logoart/Grandpa%20Joe%20Plays%20the%20Open-{width}x{height}.jpg"
+            },
+            "localized_name": "Grandpa Joe Plays the Open",
+            "locale": "en-us"
+        }
+    ]
+}

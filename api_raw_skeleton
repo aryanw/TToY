@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": "28623425344",
+      "user_id": "150573462",
+      "game_id": "488191",
+      "community_ids": [
+        "848d95be-90b3-44a5-b143-6e373754c382",
+        "8deb7b0f-d5a3-4f9d-942d-2331d8f4fe3d",
+        "ff1e77af-551d-4993-945c-f8ceaa2a2829"
+      ],
+      "type": "live",
+      "title": "CHILL // PSYCHEDELIA :: ambience \u0026 tones  [ !visuals ]",
+      "viewer_count": 9001,
+      "started_at": "2018-05-08T18:47:34Z",
+      "language": "en",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amorelandra-{width}x{height}.jpg"
+    }
+    ...
+  ],
+  "pagination": {
+    "cursor": "eyJiIjpudWxsLCJhIjp7Ik9mZnNldCI6MX19"
+  }
+}

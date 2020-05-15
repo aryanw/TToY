@@ -1,0 +1,34 @@
+{
+    "slug": "HonorableMoralFiddleheadsOhMyDog",
+    "tracking_id": "436278070",
+    "url": "https://clips.twitch.tv/HonorableMoralFiddleheadsOhMyDog?tt_medium=clips_api\u0026tt_content=url",
+    "embed_url": "https://clips.twitch.tv/embed?clip=HonorableMoralFiddleheadsOhMyDog\u0026tt_medium=clips_api\u0026tt_content=embed",
+    "embed_html": "\u003ciframe src='https://clips.twitch.tv/embed?clip=HonorableMoralFiddleheadsOhMyDog\u0026tt_medium=clips_api\u0026tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'\u003e\u003c/iframe\u003e",
+    "broadcaster": {
+        "id": "69759951",
+        "name": "vader",
+        "display_name": "Vader",
+        "channel_url": "https://www.twitch.tv/vader",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6d8c949-cf8d-4e7a-9f92-b7c81002d499-profile_image-150x150.png"
+    },
+    "curator": {
+        "id": "100866453",
+        "name": "mamba99999",
+        "display_name": "Mamba99999",
+        "channel_url": "https://www.twitch.tv/mamba99999",
+        "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-150x150.png"
+    },
+    "vod": null,
+    "broadcast_id": "33638728048",
+    "game": "Grand Theft Auto V",
+    "language": "en-gb",
+    "title": "Testing new horn",
+    "views": 128175,
+    "duration": 8.68,
+    "created_at": "2019-04-11T21:52:26Z",
+    "thumbnails": {
+        "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C436278070-preview-480x272.jpg",
+        "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C436278070-preview-260x147.jpg",
+        "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C436278070-preview-86x45.jpg"
+    }
+}
