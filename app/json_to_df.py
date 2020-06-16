@@ -2,18 +2,7 @@
 import pandas as pd
 import json
 
-# ask for name
-# get recent clips from v5 for last 5 hours
-    # call get top clips
-    # count clips
-    # save in df
-    # if clips more than zero
-    # loop
-# get their timestamps
-#
-#
-#
-#
+
 # wget https://repo.continuum.io/archive/Anaconda3-2020.02-Linux-x86_64.sh
 # /home/aryanwagadre/workstation/TwitchApi/jsons
 path = '/home/aryanwagadre/workstation/TwitchApi/jsons/anomaly_live_test.json'
@@ -33,9 +22,28 @@ def return_ten_latest_clip_links(df):
     return result
 
 def json_to_dict():
-    
-data = open_json(path)
-df = json_to_df(data)
+    return 0
 
+
+if __name__=="__main__": 
+    main() 
 
 # %%
+
+###########################################################
+# func: get clips of the week
+#     input: game, subcatagory in game string (NoPixel)
+#     output: list of urls
+
+def main():
+    # retrieve data of all the CLIPS from this weeks streams
+    # only keep ones with right subcatagory (check in vod names)
+    # save in a dict
+    # find best top 20 clips
+    # save in a dict
+    
+    data = open_json(path)
+    df = json_to_df(data)
+
+  
+    
