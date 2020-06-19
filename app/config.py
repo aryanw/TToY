@@ -1,6 +1,9 @@
 client_id = 'b97x1nm62wdg8s975hoc8m57ag2t0q'
 client_secret = 'dhe3d7f3i1dgysbl6tdiyzepz8ib5a'
 live_oauth_code = 'qczgwwopz7ezmbodw42x1uo88pgjv1'
-game = 'grandtheftautofive'
+game = 'Grand Theft Auto V'
+game_id = 32982
 subcatagory = 'nopixel'
 validate_url = 'https://id.twitch.tv/oauth2/validate'
+clips_url = 'https://api.twitch.tv/helix/clips'
+nopixel_list = ['Flocko1400', 'Kyle', 'Hotted89', 'Jayce', 'Kaceytron', 'JoblessGarrett', 'pokelawls', 'SmokySloth', 'CinnamonToastKen', 'Nmplol', 't3r0_', 'Kitboga', 'SodaKite', 'Kiwo', 'Timmac', 'Captainmurphy', 'Spekel', 'CrunchyShuffles', 'Pandagirl91', 'Whippy', 'Afro', 'Whippy', 'xQcOW', 'Koil', 'Shrimp_', 'JaboodyShow', 'Nefariouscharm', 'FortyOne', 'Loqrin', 'Judd', 'Rlly', 'Khaleesi_Live_Tv', 'MiltonTPike1', 'FortyOne', 'dasMEHDI', 'Abbay', 'LAGTVMaximusBlack', 'Anomaly', 'RajjPatel', 'Jubby', 'SilentSentry', 'Darthbob77', 'Kite61', 'dasMEHDI', 'Sal_rosenberg', 'Afro', 'ImmortalHD', 'UberHaxorNova', 'SilentSentry', 'Markiplier', 'GloryD', 'Kimchi', 'Greekgod', 'Nakkida', 'ShrapnelYeti', 'JustJamieHDG', 'MsBrit', 'Kiwo', 'Cyr', 'ImmortalHD', 'Charlieblossom_', 'AndyMilonakis', 'SilentSentry', 'Jayce', 'SayeedBlack', 'Tara_', 'RemiTheSiren', 'Ashlynn', 'Docchoi', 'ConnorCronus', 'Digitsuna', 'Whiteboylemons', 'Hedisaurus', 'Matchasmash', 'Loserfruit', 'Madmoiselle', 'Judd', 'Airborne', 'Curvyelephant', 'KillrBeauty', 'captainmurphy', 'Swebliss', 'JPKMoto', 'SmokySloth', 'Afro', 'ImmortalHD', 'CallMeGrub', 'LeWolfy', 'uhSnow', 'Bkprimal', 'Kyliebitkin', 'A_Hired_Gun', 'FortyOne', 'Miggitymaan', 'Lt_Raven', 'NikkisARiot', 'Stoner_Minded', 'MattRP', 'Ziggy', 'JoblessGarrett', 'CurtisRyan_', 'Ramee', 'Spekel', 'ConfusedDevil', 'Hirona', 'Kinamazing', 'Koil', 'Five0antho', 'Eastside Ballas', 'Zombie_Barricades', 'Koil', 'Cyr', 'bLuE622', 'Summit1g', 'Coolio770', 'JoblessGarrett', 'Lord_Kebun', 'Ramee', 'RatedEpicz', 'OfficialTaco_', 'Shotz', 'Pokimane', 'Sodapoppin', 'MoonMoon', 'Spaceboy', 'Mick', 'Vader', 'TimTheTatman', 'AnthonyZ', 'Forsen', 'Ssaab', 'Buddha', 'Lirik']

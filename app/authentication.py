@@ -6,9 +6,12 @@ import config
 # get new oauth code
 def get_oauth():
     return 0
-# verify an oauth code
-def verify_oauth(oauth):
-    # curl -H "Authorization: OAuth qczgwwopz7ezmbodw42x1uo88pgjv1" https://id.twitch.tv/oauth2/validate
+
+def verify_oauth():
+    """ verify an oauth code
+        Input: None
+        Output: 1 if not expired, 0 if expired, error code if error
+    """
     current_oauth = 'OAuth ' + config.live_oauth_code
     headers = {'Authorization':current_oauth}
     r = requests.get(config.validate_url,headers=headers)
@@ -29,10 +32,3 @@ def refresh_oauth(oauth):
     &client_id=<your client ID>
     &client_secret=<your client secret>'''
     return 0
-
-
-def main():
-    print(verify_oauth(config.live_oauth_code))
-
-if __name__=="__main__": 
-    main() 
