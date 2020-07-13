@@ -3,7 +3,7 @@ import config
 def get_clips(amount,days):
     """ extract json information of clips
         Input: amount, days
-        Output: list of json dictionaries
+        Output: requests object if success or status code if fail
     """
     current_oauth = 'Bearer ' + config.live_oauth_code
     headers = {'Client-ID':config.client_id,'Authorization':current_oauth}
@@ -14,10 +14,22 @@ def get_clips(amount,days):
     else:    
         return r
 
-#print(get_clips(2,2))
+def clean_clip_data(clip_list):
+    """ only keep important info from json
+        Input: clip_list
+        Output: clean_clip_list
+    """
+    clean_clip_list = []
+    
+    return clean_clip_list
 
-"""
-curl -H 'Client-ID: b97x1nm62wdg8s975hoc8m57ag2t0q' \
-    -H 'Authorization: OAuth qczgwwopz7ezmbodw42x1uo88pgjv1' \
-    -X GET 'https://api.twitch.tv/helix/clips?game_id=32982&first=2'
-"""
+def get_game_specific_clip_data(clip_list,player_list):
+    """ get list of clips from a specific broadcaster list
+        Input: clip_list, player_list
+        Output: specific_clip_list
+    """
+    specific_clip_list = []
+    for i in clip_list:
+        if i["broadcaster_name"] in player_list:
+            specific_clip_list.append(i)
+    return specific_clip_list
