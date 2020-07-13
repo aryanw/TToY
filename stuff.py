@@ -78,3 +78,17 @@ https://clips.twitch.tv/HardBlightedLyrebirdTBCheesePull
 curl -H 'Accept: application/vnd.twitchtv.v5+json' \
 -H 'Client-ID: b97x1nm62wdg8s975hoc8m57ag2t0q' \
 -X GET 'https://api.twitch.tv/kraken/clips/HardBlightedLyrebirdTBCheesePull' > clip_i_made_v5.json
+
+https://github.com/aryanw/TToY.git
+git add --all
+# get video
+curl -H 'Accept: application/vnd.twitchtv.v5+json' \
+-H 'Client-ID: b97x1nm62wdg8s975hoc8m57ag2t0q' \
+-X GET 'https://www.twitch.tv/videos/617640186'
+
+curl -H 'Client-ID: b97x1nm62wdg8s975hoc8m57ag2t0q' \
+-X GET 'https://api.twitch.tv/helix/videos?id=617640186'
+
+curl -H 'Client-ID: b97x1nm62wdg8s975hoc8m57ag2t0q' \
+-H 'Authorization: Bearer i3ze8g58xhr6jryehyqpemtjtzatd2' \
+-X GET 'https://api.twitch.tv/helix/videos?id=617640186'

@@ -8,6 +8,8 @@
 import authentication
 import clips
 import config
+import channel_list
+import execute
 # funcs
 def main():
     if not authentication.verify_oauth():
@@ -27,16 +29,17 @@ def main():
             add to master list 
             increase pagination
         """
-
-        temp = clips.get_clips(50,2)
-        list_of_data = temp.json()['data'] # list of json info
+        payload = {'game_id':config.game_id,'first':50}
+        # print(execute.run_get(config.clips_url,payload))
+        temp = clips.get_clips(payload,channel_list.nopixel_list)
         # print(list_of_data)
         # print(temp.json()['pagination'])
 
-
-        new_list = clips.get_game_specific_clip_data(list_of_data,config.nopixel_list)
-        for i in new_list:
+        # searching for catagories is available.
+        # Search Channels can be use to find queries like 'nopixel'
+        for i in temp:
             print(i["broadcaster_name"])
+
 if __name__=="__main__": 
 	main() 
 
