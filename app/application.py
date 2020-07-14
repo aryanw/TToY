@@ -5,6 +5,9 @@
 ##############################################################################################################################################################
 # %%
 # imports
+from datetime import datetime, timedelta
+from tzlocal import get_localzone
+
 import authentication
 import clips
 import config
@@ -29,7 +32,13 @@ def main():
             add to master list 
             increase pagination
         """
-        payload = {'game_id':config.game_id,'first':50}
+        day = timedelta(1)
+        local_tz = get_localzone()
+        ended_at = datetime.now(local_tz)    # todays datetime
+        started_at = local_tz.normalize(ended_at - 7*day) # a week before today
+        payload = {'game_id':config.game_id,'first':50,'started_at':execute.get_date_string(started_at),'ended_at':execute.get_date_string(ended_at)}
+        print(started_at,ended_at)
+        
         # print(execute.run_get(config.clips_url,payload))
         temp = clips.get_clips(payload,channel_list.nopixel_list)
         # print(list_of_data)
@@ -38,7 +47,7 @@ def main():
         # searching for catagories is available.
         # Search Channels can be use to find queries like 'nopixel'
         for i in temp:
-            print(i["broadcaster_name"])
+            print(i["broadcaster_name"],i['created_at'])
 
 if __name__=="__main__": 
 	main() 

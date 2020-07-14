@@ -1,5 +1,7 @@
 import requests
 import config
+import rfc3339
+
 def run_get(url,payload):
     """ extract json information of clips
         Input: amount, days
@@ -13,3 +15,6 @@ def run_get(url,payload):
         return r.status_code
     else:    
         return r
+
+def get_date_string(date_object):
+  return rfc3339.rfc3339(date_object)
