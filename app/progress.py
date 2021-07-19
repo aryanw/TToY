@@ -7,6 +7,7 @@
     # refresh oauth if expired
 # get urls of top clips 
     # extract all urls depending on description {INPROGRESS}
+        # scrap nopixel site for all recent users (gotta make a scraper)
     # select appropriate urls
     # classify urls
 # combine clips into a video
