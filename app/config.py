@@ -1,6 +1,4 @@
-client_id = 'b97x1nm62wdg8s975hoc8m57ag2t0q'
-client_secret = 'dhe3d7f3i1dgysbl6tdiyzepz8ib5a'
-live_oauth_code = 'qczgwwopz7ezmbodw42x1uo88pgjv1'
+
 game = 'Grand Theft Auto V'
 game_id = 32982
 subcatagory = 'nopixel'
